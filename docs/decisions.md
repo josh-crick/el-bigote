@@ -67,3 +67,22 @@ Reason:
 - Improve consistency
 - Reduce rework
 - Create a clearer development process
+
+---
+
+## Decision 005 - Design around the existing venue identity
+
+Date: 2026-08-04
+
+Decision: The website should be designed as an extension of El Bigote's physical venue rather than following a generic restaurant website style.
+
+Reason:
+
+- The venue already has a strong visual identity through its artwork, logo, food, and atmosphere.
+- The website should communicate the feeling of visiting El Bigote.
+- Authentic photography and storytelling should be prioritised.
+
+Trade-offs:
+
+- Requires more bespoke design work.
+- Less reliance on generic templates and shortcuts.

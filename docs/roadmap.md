@@ -18,7 +18,7 @@ Status: In Progress
 - [x] Deploy to Vercel
 - [x] Create component architecture
 - [x] Create project documentation
-- [ ] Define design language
+- [x] Define design language
 
 ---
 

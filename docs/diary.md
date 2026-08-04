@@ -62,3 +62,28 @@ Completed:
 Purpose:
 
 To ensure important decisions, ideas, and progress are captured throughout development.
+
+---
+
+## 2026-08-04 - Design Language Defined
+
+Created the first version of El Bigote's digital design language.
+
+Defined:
+
+- Brand identity and personality
+- Target audience
+- Website goals
+- Tone of voice
+- Digital experience principles
+- Visual direction
+- Logo usage principles
+- Design pillars
+- Colour direction
+- Typography direction
+- Photography style
+- UI principles
+
+Purpose:
+
+To create a consistent foundation for future design and development decisions.
